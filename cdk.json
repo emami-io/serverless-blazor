@@ -1,5 +1,5 @@
 {
-  "app": "dotnet run --project src/ServerlessBlazor/ServerlessBlazor.csproj",
+  "app": "dotnet run --project infra/src/ServerlessBlazor/ServerlessBlazor.csproj",
   "watch": {
     "include": [
       "**"
