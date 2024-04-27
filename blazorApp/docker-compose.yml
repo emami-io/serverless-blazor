@@ -1,0 +1,12 @@
+# Blazor docker compose
+version: '3.4'
+
+services:
+  blazorapp:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: blazorapp
+    ports:
+      - "8080:80"
+
