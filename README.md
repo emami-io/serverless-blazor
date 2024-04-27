@@ -26,14 +26,14 @@ This projects consists of:
 npm install -g aws-cdk
 ```
 
-1. Install the .NET Core SDK and verfy the installation
+2. Install the .NET Core SDK and verfy the installation
 ```bash
 dotnet --version
 ```
 
-1. install Docker server
+3. install Docker server
 
-2. Install the AWS CLI and configure it
+4. Install the AWS CLI and configure it
 
 
 ## How to Deploy
