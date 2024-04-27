@@ -45,17 +45,17 @@ git clone git@github.com:emami-io/serverless-blazor.git
 cd serverless-blazor
 ```
 
-1. Install NPM packages
+2. Install NPM packages
 ```bash
 npm install
 ```
 
-1. Test CDK infra
+3. Test CDK infra
 ```bash
 cdk synth
 ```
 
-1. Deploy the CDK infra
+4. Deploy the CDK infra
 ```bash
 cdk deploy
 ```
